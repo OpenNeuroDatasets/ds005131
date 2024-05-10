@@ -1,0 +1,18 @@
+{
+    "TaskName": "oneback",
+    "Manufacturer": "Brain Products",
+    "PowerLineFrequency": "n/a",
+    "SamplingFrequency": 500.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 3481.098,
+    "RecordingType": "continuous",
+    "EEGReference": "n/a",
+    "EEGGround": "n/a",
+    "EEGPlacementScheme": "based on the extended 10/20 system",
+    "EEGChannelCount": 64,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0
+}

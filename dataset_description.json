@@ -1,0 +1,9 @@
+{
+    "Name": "Evoked Responses to Elevated sounds",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Ole Bialas",
+        "Marc Schoewiesner"
+    ]
+}

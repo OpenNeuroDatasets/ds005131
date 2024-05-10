@@ -5,5 +5,7 @@
     "Authors": [
         "Ole Bialas",
         "Marc Schoewiesner"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005131.v1.0.0",
+    "License": "CC0"
 }
